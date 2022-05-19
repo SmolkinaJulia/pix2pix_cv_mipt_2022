@@ -36,6 +36,6 @@ Repo of CV semester project by Julia SMolkina
 ![Картинка5 -юля после обучения]
 (https://github.com/SmolkinaJulia/pix2pix_cv_mipt_2022/blob/2d89444d7a44fcdbbc2110d8734cc97b13397961/%D1%8E%D0%BB%D1%8F%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5.jpg)
 
-Можно сравнить результаты двух похожих алгоритмов Sketch2faсe и Pix2pixHD
+## Можно сравнить результаты двух похожих алгоритмов Sketch2faсe и Pix2pixHD
 
-![Иллюстрация к результатам](results algos.jpg)
+![Иллюстрация к результатам](https://github.com/SmolkinaJulia/pix2pix_cv_mipt_2022/blob/main/results%20algos.jpg)
