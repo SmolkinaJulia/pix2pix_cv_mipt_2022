@@ -38,4 +38,4 @@ Repo of CV semester project by Julia SMolkina
 
 Можно сравнить результаты двух похожих алгоритмов Sketch2faсe и Pix2pixHD
 
-![Картинка8   ](results algos.jpg) 
+![Иллюстрация к результатам](results algos.jpg)
