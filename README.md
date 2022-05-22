@@ -34,6 +34,10 @@ Repo of CV semester project by Julia SMolkina
 
 ![Картинка4 - сгенерированный скетч](julia_sketch.jpg)
 
+![Картинка - результат работы](photo_2022-05-22_12-06-56.jpg)
+![Картинка -loss generator model](photo_2022-05-22_12-06-57.jpg)
+![Картинка  discriminator loss](photo_2022-05-22_12-06-59.jpg)
+
 Для валидации после обучения на аниме датасете:
 
 ![Картинка5 -юля после обучения]
