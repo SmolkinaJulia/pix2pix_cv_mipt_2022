@@ -30,9 +30,6 @@ Repo of CV semester project by Julia SMolkina
 
 Моя фотография и скетч 
 
-![Картинка3 - фото Юли](julia_org.jpg)
-
-![Картинка4 - сгенерированный скетч](julia_sketch.jpg)
 
 ![Картинка - результат работы](photo_2022-05-22_12-06-56.jpg)
 ![Картинка -loss generator model](photo_2022-05-22_12-06-57.jpg)
